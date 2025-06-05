@@ -14,7 +14,7 @@ import { MaterialIcons } from '@expo/vector-icons';
 import debounce from 'lodash.debounce';
 
 // const BASE_URL = 'http://localhost:5000';
-const BASE_URL = 'http://3.82.246.165:5000';
+const BASE_URL = '34.228.25.247:5003';
 
 
 const { width } = Dimensions.get('window');
