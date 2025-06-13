@@ -16,7 +16,9 @@ import { MaterialIcons } from '@expo/vector-icons';
 // Backend API base URL
 
 // const BASE_URL = 'http://localhost:5000';
-const BASE_URL = 'http://3.224.158.47:5003';
+// const BASE_URL = 'http://3.224.158.47:5003';
+const BASE_URL='https://barcodeprod.onrender.com'
+
 
 
 export default function UserDashboard({ navigation }) {
